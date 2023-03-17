@@ -17,9 +17,7 @@ There are 2 kinds of graphql types to generate. We have types for interacting wi
 for our exposed graphql api schema.
 Run `yarn generate` to generate all gql types
 
-<<<<<<< HEAD
 ### Setup empty database & Prisma
-=======
 
 ## Running with docker
 
@@ -35,7 +33,6 @@ docker compose logs -f
 ## Running Manually
 
 ### Setup database & Prisma
->>>>>>> b0b7998 (Dockerize local development)
 
 #### Start docker container and manually set up your database (For setup from backup, read below)
 
